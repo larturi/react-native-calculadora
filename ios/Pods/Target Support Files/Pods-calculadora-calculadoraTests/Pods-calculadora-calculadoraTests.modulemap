@@ -1,0 +1,6 @@
+module Pods_calculadora_calculadoraTests {
+  umbrella header "Pods-calculadora-calculadoraTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
